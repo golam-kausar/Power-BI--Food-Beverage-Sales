@@ -1,1 +1,2 @@
-# POWER-BI
+# Food-Beverage-Sales
+#### This project focuses on analyzing food and beverage sales using Power BI to create an interactive dashboard. The dashboard provides a comprehensive view of key business metrics, such as total sales, orders, and average transaction values. It visually represents trends in sales performance across different dimensions like time, product categories, and sales channels. By leveraging dynamic visualizations, the dashboard helps stakeholders understand patterns in sales and identify areas for improvement or growth.
